@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit2 Example</string>
+    <string name="desc_first_item">The description of the first item</string>
+    <string name="first_item">First item</string>
+    <string name="fetch_data_link">Fetch data from link</string>
+    <string name="the_below_data_was_received_from_server_via_retrofit2">The below data was received from server via Retrofit2.</string>
+</resources>
